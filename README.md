@@ -13,4 +13,4 @@ The codes should be executed in 3 parts separetely or they will don't work
 
 
 
-The best solution is from GPRegression2
+The best solution is from GPRegression2 and 0.1309.csv
