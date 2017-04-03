@@ -13,4 +13,3 @@ The codes should be executed in 3 parts separetely or they will don't work
 
 
 
-The best solution is by GPRegression2
